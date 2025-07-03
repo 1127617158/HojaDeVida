@@ -1,0 +1,7 @@
+div {
+    background-color: rgb(87, 188, 255);
+    border-radius: 50px;
+    text-align: center;
+    border-color: rgb(0, 0, 0);
+    border-style:ridge;
+}
